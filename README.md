@@ -1,3 +1,7 @@
+# 2019年Fork后做的工作：应用此模型进行人脸识别任务，并增加人脸关键点损失，提高最终检测准确率
+
+为2019年的本科毕设项目。
+
 # tensorflow-MTCNN
 人脸检测MTCNN算法，采用tensorflow框架编写，从理解到训练，中文注释完全，含测试和训练，支持摄像头，代码参考[AITTSMD](https://github.com/AITTSMD/MTCNN-Tensorflow)，做了相应删减和优化。
 ## 模型理解
